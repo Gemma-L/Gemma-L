@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gemma-L
 - 👀 I’m interested in lots of things
-- 🌱 I’m currently learning digital humanities in King's College London
-- 📫 How to reach me: zhuoman.li@kcl.ac.uk
+- 🌱 I’m currently a PhD student in WKW school of communication and information NTU
+- 📫 How to reach me: ZHUOMAN002@e.ntu.edu.sg
 
 <!---
 Gemma-L/Gemma-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
