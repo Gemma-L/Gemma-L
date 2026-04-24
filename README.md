@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gemma-L
-- 👀 I’m interested in lots of things
-- 🌱 I’m currently a PhD student in WKW school of communication and information NTU
+- 👀 I’m interested in HCI, exploring good food, wandering the internet, writing strange little novels, oversharing, overthinking, and talking far too much about things that probably don’t matter—but somehow do
+- 🌱 I’m currently a PhD candidate in WKW school of communication and information NTU
 - 📫 How to reach me: ZHUOMAN002@e.ntu.edu.sg
 
 <!---
